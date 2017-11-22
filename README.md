@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/miguelpe83/point.svg?branch=master)](https://travis-ci.org/miguelpe83/point)
+
 # Point
 
 Creación de una gema con la clase que representa un punto en el espacio bidimensional.
